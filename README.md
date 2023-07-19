@@ -30,7 +30,7 @@ The Short URL Maker website is a simple web application built using React and Ta
 
 ## Live Demo
 
-You can access the live version of the Short URL Maker website by visiting [long-to-short-url.netlify.app](https://long-to-short-url.netlify.app).
+You can access the live version of the Short URL Maker website by visiting <a href="https://long-to-short-url.netlify.app" target="_blank">long-to-short-url.netlify.app</a>.
 
 ## Technologies Used
 

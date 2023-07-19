@@ -28,6 +28,10 @@ The Short URL Maker website is a simple web application built using React and Ta
 - Users can copy the short URL to the clipboard using the "Copy" button next to each history entry.
 - The history is retrieved from the LocalStorage and displayed on this page.
 
+## Live Demo
+
+You can access the live version of the Short URL Maker website by visiting: https://long-to-short-url.netlify.app
+
 ## Technologies Used
 
 - React: The frontend framework used for building the user interface and managing application state.
